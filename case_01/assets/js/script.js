@@ -3,7 +3,7 @@ let round = 1;
 
 const changeLetters = () => {
 
-
+    let text = $(".letter>h2").text()
 
     switch (round) {
 
